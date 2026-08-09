@@ -1,4 +1,4 @@
-### ⚡ Active Power Factor Correction (PFC)
+###  Active Power Factor Correction (PFC)
 This circuit achieves active power factor correction using a boost converter topology controlled by the **MC33262** IC. 
 
 * **Current Shaping:** The IC modulates the converter's duty cycle to force the input current to track the rectified input voltage.
